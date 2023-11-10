@@ -1,4 +1,4 @@
-# Marvel Comics Build For Fall 2023
+# Risk of Rain Page Build For Winter 2023
 This repo is for an in-class build demonstrating basic CSS layouts, CSS sprites, and a light-box effect.
 
 ## Installation
